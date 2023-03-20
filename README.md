@@ -14,4 +14,23 @@ CSS syntax contains a selector and declaration block
 <br>
 <b>Declaration Block:</b> The declaration block can contain one or more declarations separated by a semicolon. For the above example, there are two declarations:<br>
 1- color: yellow;<br>
-2- font-size: 11 px;
+2- font-size: 11 px;<br>
+Types of CSS Selector
+    1) CSS Element Selector:- The element selector selects the HTML element by name.
+                              <!DOCTYPE html>  
+                              <html>  
+                              <head>  
+                              <style>  
+                              p{                             
+                                text-align: center;  
+                                color: blue;  
+                               }   
+                              </style>  
+                              </head>  
+                              <body>  
+                                  <p>This style will be applied on every paragraph.</p>  
+                                  <p id="para1">Me too!</p>  
+                                  <p>And me!</p>  
+                              </body>  
+                              </html
+                           
