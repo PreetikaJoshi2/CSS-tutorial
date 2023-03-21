@@ -1,11 +1,11 @@
-# CSS-tutorial
+## CSS-tutorial
 
 CSS stands for Cascading Style Sheets.<br>
 CSS describes how HTML elements are to be displayed on screen, paper, or in other media.<br>
 CSS saves a lot of work. It can control the layout of multiple web pages all at once.<br>
 External stylesheets are stored in CSS files.<br>
 
-## CSS Syntax<br>
+### CSS Syntax<br>
 CSS syntax contains a selector and declaration block
 
 ![image](https://user-images.githubusercontent.com/100207065/226394952-72e1532e-6e76-4ee7-9a89-560e3589d8e0.png)
@@ -37,4 +37,4 @@ Types of CSS Selector
                               </body>  
                               </html
                            
-<a href="https://www.programiz.com/html/online-compiler">COPY THE CODE HERE AND RUN</a>
+<a href="https://www.programiz.com/html/online-compiler">COPY CODE HERE AND RUN</a>
