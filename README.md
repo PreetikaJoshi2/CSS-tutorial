@@ -110,6 +110,30 @@ Types of CSS Selector
                                 <p>And me!</p>
                             </body>
                             </html>  
+                            
+                            
+<br>
+     5) CSS Group Selector:-The grouping selector is used to select all the elements with the same style definitions.<br>
+     
+                             <!DOCTYPE html>
+                             <html>
+                             <head>
+                             <style>
+                                h1, h2, p {
+                                    text-align: center;
+                                    color: blue;
+                                          }
+                             </style>
+                             </head>
+                             <body>
+                                <h1>Hello Javatpoint.com</h1>
+                                <h2>Hello Javatpoint.com (In smaller font)</h2>
+                                <p>This is a paragraph.</p>
+                             </body>
+                             </html>
+
+ 
+
 
  
 
