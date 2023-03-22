@@ -86,6 +86,33 @@ Types of CSS Selector
                              <p class="center">This paragraph is blue and center-aligned.</p> 
                         </body>
                         </html>
+                      
+                      
+ <br>
+
+     4) CSS Universal Selector:-  
+        The universal selector is used as a wildcard character. It selects all the elements on the pages.<BR>
+        
+                             <!DOCTYPE html>
+                             <html>
+                             <head>
+                             <style>
+                                * {
+                                    color: green;
+                                    font-size: 20px;
+                                  }       
+                            </style>
+                            </head>
+                            <body>
+                                <h2>This is heading</h2>
+                                <p>This style will be applied on every paragraph.</p>
+                                <p id="para1">Me too!</p>
+                                <p>And me!</p>
+                            </body>
+                            </html>  
+
+ 
+
 
 
        
