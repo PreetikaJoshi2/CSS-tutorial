@@ -113,7 +113,9 @@ Types of CSS Selector
                             
                             
 <br>
-     5) CSS Group Selector:-The grouping selector is used to select all the elements with the same style definitions.<br>
+
+     5) CSS Group Selector:-
+     The grouping selector is used to select all the elements with the same style definitions.<br>
      
                              <!DOCTYPE html>
                              <html>
