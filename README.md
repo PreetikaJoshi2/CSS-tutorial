@@ -35,10 +35,12 @@ Types of CSS Selector
                                   <p id="para1">Me too!</p>  
                                   <p>And me!</p>  
                               </body>  
-                              </html
+                              </html>
+                              
                            
     2) CSS ID Selector:- 
-       The id selector selects the id attribute of an HTML element to select a specific element. An id is always unique within the page so it is chosen          to select a single, unique element.
+       The id selector selects the id attribute of an HTML element to select a specific element. An id is always unique within the page so it is chosen          to select a single, unique element.<br>
+       
        
                           <!DOCTYPE html>  
                           <html>  
