@@ -16,7 +16,7 @@ CSS syntax contains a selector and declaration block
 1- color: yellow;<br>
 2- font-size: 11 px;<br>
 
-Types of CSS Selector
+Types of CSS Selector<br>
     1) CSS Element Selector:- 
        The element selector selects the HTML element by name.
     
@@ -35,7 +35,7 @@ Types of CSS Selector
                                   <p id="para1">Me too!</p>  
                                   <p>And me!</p>  
                               </body>  
-                              </html>
+                              </html><br>
                               
                            
     2) CSS ID Selector:- 
