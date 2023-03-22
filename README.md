@@ -64,3 +64,29 @@ Types of CSS Selector
                           </html>    
        
 
+<br>
+
+     3) CSS Class Selector:-  
+       The class selector selects HTML elements with a specific class attribute. It is used with a period character . (full stop symbol) followed by the        class name.<br>
+       
+       
+                        <!DOCTYPE html>
+                        <html>
+                        <head>
+                        <style>
+                            .center 
+                                {
+                                    text-align: center;
+                                    color: blue;
+                                }
+                        </style>
+                        </head>
+                        <body>
+                             <h1 class="center">This heading is blue and center-aligned.</h1>
+                             <p class="center">This paragraph is blue and center-aligned.</p> 
+                        </body>
+                        </html>
+
+
+       
+        
