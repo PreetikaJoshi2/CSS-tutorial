@@ -37,4 +37,24 @@ Types of CSS Selector
                               </body>  
                               </html
                            
-<a href="https://www.programiz.com/html/online-compiler">COPY CODE HERE AND RUN</a>
+    2) CSS ID Selector:- 
+       The id selector selects the id attribute of an HTML element to select a specific element. An id is always unique within the page so it is chosen          to select a single, unique element.
+       
+                          <!DOCTYPE html>  
+                          <html>  
+                          <head>  
+                          <style>  
+                            #para1 
+                            {  
+                             text-align: center;  
+                             color: blue;  
+                            }  
+                          </style>  
+                          </head>  
+                          <body>  
+                            <p id="para1">Hello Javatpoint.com</p>  
+                            <p>This paragraph will not be affected.</p>  
+                          </body>  
+                          </html>    
+       
+
